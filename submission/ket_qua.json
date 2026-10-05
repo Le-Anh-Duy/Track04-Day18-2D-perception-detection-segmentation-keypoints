@@ -46,21 +46,21 @@
     "flip_idx": "giải phẫu",
     "epochs": 40,
     "imgsz": 640,
-    "Box mAP50-95": 0.93,
+    "Box mAP50-95": 0.9303488492063492,
     "Pose mAP50": 0.995,
-    "Pose mAP50-95": 0.457,
+    "Pose mAP50-95": 0.4573462529843696,
     "train (phút)": 5.1
   },
   "result_4c": [
     {
       "Model": "flip_idx giải phẫu",
-      "Pose mAP50-95 — val gốc": 0.457,
-      "Pose mAP50-95 — val lật gương": 0.439
+      "Pose mAP50-95 — val gốc": 0.4573462529843696,
+      "Pose mAP50-95 — val lật gương": 0.43884777970456634
     },
     {
       "Model": "flip_idx đồng nhất",
-      "Pose mAP50-95 — val gốc": 0.417,
-      "Pose mAP50-95 — val lật gương": 0.298
+      "Pose mAP50-95 — val gốc": 0.4169217121481716,
+      "Pose mAP50-95 — val lật gương": 0.29772304416546624
     }
   ],
   "answers": {
